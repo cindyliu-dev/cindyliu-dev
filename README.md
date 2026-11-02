@@ -1,6 +1,6 @@
 # Hi, I'm Cindy 👋
 
-This was my work account as a Software Engineer at **CyberLink** (10/2024 – 07/2026),
+This was my work account as a Software Engineer at **CyberLink**,
 where I built generative AI tools for [MyEdit](https://myedit.online/) and [MyEdit Business](https://business.myedit.online/).
 Most of that work lives in private company repositories.
 
